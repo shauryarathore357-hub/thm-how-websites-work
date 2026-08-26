@@ -4,6 +4,8 @@
 **Difficulty:** Info / Beginner
 **Status:** ✅ Room completed — 100%
 
+> ⚠️ **Note:** The images seen below are shuffled or to be honest, the path are wrongly committed which is why answers and images shown are not matching. Please forgive me for this mistake.
+
 ## Overview
 
 This room covers the fundamentals of how websites are built and served — the browser/server request-response cycle, front-end vs back-end, HTML structure, and a first taste of client-side vulnerabilities like sensitive data exposure, HTML injection, and JavaScript injection.
